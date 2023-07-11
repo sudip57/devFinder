@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:100,200,300,regular,500,600,700,100italic,200italic,300italic,italic,500italic,600italic,700italic);
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  background: #141c2f;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
