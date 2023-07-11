@@ -49,7 +49,7 @@ User Details Page
 ![github](https://github.com/sudip57/To-Do-List/assets/79646606/2f694471-c37b-436e-9e6e-7728599cfe74)
 
 
-##Acknowledgements
+## Acknowledgements
 It utilizes the powerful [GitHub API](https://api.github.com) to provide detailed information about developers and their projects
 
 
