@@ -12,6 +12,7 @@ DevFinder is a React project that utilizes the GitHub API to search for GitHub u
 
 
 ## Installation
+To run DevFinder locally, follow these steps:
 
 1. Clone the repository:
 ```bash
